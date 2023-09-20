@@ -1,0 +1,8 @@
+.sidebar{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    width: 400px;
+    height: 600px;
+    margin: 100px 0px 0px 40px;
+}
